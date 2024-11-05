@@ -502,7 +502,7 @@
   rel="noreferrer"
 >
   <img
-    src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
+    src="https://adobexdplatform.com/favicon.png"
     alt="xd"
     width="40"
     height="40"
