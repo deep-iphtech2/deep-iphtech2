@@ -15,6 +15,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a
   href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
   target="_blank"
@@ -27,6 +28,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://golang.org" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
@@ -35,6 +37,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -43,6 +46,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
@@ -51,6 +55,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -59,7 +64,9 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 
+<br />
 <br>
 <h6 align="left">Frontend Development</h6>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
@@ -70,6 +77,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -78,6 +86,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://angular.io" target="_blank" rel="noreferrer">
   <img
     src="https://angular.io/assets/images/logos/angular/angular.svg"
@@ -86,6 +95,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://angular.io" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
@@ -94,6 +104,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -102,6 +113,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
   <img
     src="https://bestofjs.org/logos/vuetify.svg"
@@ -110,6 +122,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -118,6 +131,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://redux.js.org" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -126,6 +140,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -134,6 +149,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -142,6 +158,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -150,6 +167,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
@@ -158,6 +176,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 
 <br>
 <h6 align="left">Backend Development</h6>
@@ -169,6 +188,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
   <img
     src="https://nestjs.com/logo-small-gradient.76616405.svg"
@@ -177,6 +197,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://graphql.org" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
@@ -185,6 +206,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -193,6 +215,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 
 <br>
 <h6 align="left">Mobile App Development</h6>
@@ -204,6 +227,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://flutter.dev" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
@@ -212,6 +236,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://dart.dev" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
@@ -220,6 +245,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
   <img
     src="https://reactnative.dev/img/header_logo.svg"
@@ -228,6 +254,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg"
@@ -236,6 +263,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 
 <br>
 <h6 align="left">Database</h6>
@@ -247,6 +275,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -255,6 +284,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -263,6 +293,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -271,6 +302,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
@@ -279,6 +311,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 
 <br>
 <h6 align="left">Data Visualization</h6>
@@ -290,6 +323,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://d3js.org/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"
@@ -298,6 +332,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"
@@ -306,6 +341,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 
 <br>
 <h6 align="left">Devops</h6>
@@ -317,6 +353,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -325,6 +362,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
@@ -333,6 +371,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 
 <br>
 <h6 align="left">Backend as a Service(BaaS)</h6>
@@ -344,6 +383,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -352,6 +392,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 
 <br>
 <h6 align="left">Framework</h6>
@@ -363,6 +404,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
@@ -371,6 +413,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
   <img
     src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
@@ -379,6 +422,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"
@@ -387,6 +431,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
@@ -395,6 +440,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 
 <br>
 <h6 align="left">Testing</h6>
@@ -406,6 +452,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 
 <br>
 <h6 align="left">Software</h6>
@@ -421,6 +468,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
@@ -429,6 +477,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg"
@@ -437,6 +486,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://postman.com" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -445,6 +495,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a
   href="https://www.adobe.com/products/xd.html"
   target="_blank"
@@ -457,6 +508,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -465,6 +517,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg"
@@ -473,6 +526,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 
 <br>
 <h6 align="left">Static Site Generators</h6>
@@ -484,6 +538,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img
     src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
@@ -492,6 +547,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
@@ -500,6 +556,7 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
 
 <br>
 <h6 align="left">Game Engines</h6>
@@ -511,3 +568,4 @@
     height="40"
   />
 </a>
+&nbsp; &nbsp;
