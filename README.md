@@ -1,10 +1,5 @@
 <h1>Hi 👋, I'm Deep Chaturvedi</h1>
-<h3>A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h4>I am a passionate full stack developer from India having 8 years of excellence in software development.</h4>
 
 <h6 align="left">Programming Languages</h6>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
