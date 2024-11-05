@@ -572,15 +572,8 @@
  ###
 
 <h3 align="left">Projects</h3>
-<a href="https://www.behance.net/gallery/83345309/TripComrades-App" target="_blank"><img src="https://user-images.githubusercontent.com/124572978/217252904-e0ea5764-49bc-4400-b09f-48af622e8359.jpg" height="100" width="120" alt="knockout logo"  /></a> &nbsp;  &nbsp; &nbsp; 
-<a href="https://www.behance.net/gallery/114309977/mEinstein-Your-Shadow-Brain" target="_blank"  style="margin-left: 100px"><img src="https://user-images.githubusercontent.com/124572978/217253927-9d9f5d48-3174-4fba-bf5e-81351743aceb.jpg" height="100" width="120" alt="knockout logo" /></a>&nbsp;  &nbsp; &nbsp; 
-<a href="https://www.behance.net/gallery/75339369/Pet-Animal-Game-App" target="_blank"><img src="https://user-images.githubusercontent.com/124572978/217253936-bb0d43ee-5ed5-48ba-a472-334a58421108.jpg" height="100" width="120" alt="knockout logo"  /></a>&nbsp;  &nbsp; &nbsp; 
-<a href="https://www.behance.net/gallery/79133725/FlagCart-Photo-Fx-Stickers-Overlays" target="_blank"><img src="https://user-images.githubusercontent.com/124572978/217253938-2399f217-d50a-445d-ab4a-231221de86e7.jpg" height="100" width="120" alt="knockout logo"  /></a>&nbsp;  &nbsp; &nbsp; 
-<a href="https://www.behance.net/gallery/76033837/YoTube-A-Background-Music-Player" target="_blank"><img src="https://user-images.githubusercontent.com/124572978/217253941-06e587eb-715e-4239-9f3b-f4ed851fb767.jpg" height="100" width="120" alt="knockout logo"  /></a>&nbsp;  &nbsp; &nbsp; 
-<a href="https://www.behance.net/gallery/114972073/Photo-Editor-Pics-Story" target="_blank"><img src="https://user-images.githubusercontent.com/124572978/217257063-d76cd131-e1ed-4e7f-ba82-c93470c5c9b5.jpg" height="100" width="120" alt="knockout logo"  /></a>&nbsp;  &nbsp; &nbsp; 
-<a href="https://www.behance.net/gallery/89609623/Food-Delivery-App" target="_blank"><img src="https://user-images.githubusercontent.com/124572978/217257069-0c6917c8-c720-4e1e-8b5d-2415d4884bf6.jpg" height="100" width="120" alt="knockout logo"  /></a>&nbsp;  &nbsp; 
-<a href="https://www.behance.net/gallery/81274335/ColorMe-App-IPHS-Technologies" target="_blank"><img src="https://user-images.githubusercontent.com/124572978/217257075-ffaa2459-2c54-4dc2-9911-b8c7bac227af.jpg" height="100" width="120" alt="knockout logo"  /></a>&nbsp;  &nbsp; &nbsp;
-<a href="https://www.behance.net/gallery/81890753/Faces-Places-IPHS-Technologies" target="_blank"><img src="https://user-images.githubusercontent.com/124572978/217257078-aa52292f-2726-4916-a77e-5f131bbeefb0.jpg" height="100" width="120" alt="knockout logo"  /></a>&nbsp;  &nbsp; &nbsp;
-<a href="https://www.behance.net/gallery/75272975/Bullion-Software-Solutions-Live-rate-Gold-Silver" target="_blank"><img src="https://user-images.githubusercontent.com/124572978/217257080-7a13f09a-d687-4681-a724-107ec99a6634.jpg" height="100" width="120" alt="knockout logo"  /></a>&nbsp;  &nbsp; &nbsp;
+<a href="https://upoer.org/" target="_blank">
+  <img width="220" alt="Screenshot 2024-11-05 at 1 35 02 PM" src="https://github.com/user-attachments/assets/fcd7a96c-3336-4f75-ba86-64124761e2cb" alt="upoer">
+</a> 
 
 ###
