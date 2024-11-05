@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Deep Chaturvedi</h1>
-<h4>I am a passionate full stack developer from India having 8 years of excellence in software development. Here I am writting down my skills set, Please take a look :</h4>
+<p>I am a passionate full stack developer from India having 8 years of excellence in software development. Here I am writting down my skills set, Please take a look :</p>
 
 <h6 align="left">Programming Languages</h6>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
