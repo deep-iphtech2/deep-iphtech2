@@ -5,7 +5,8 @@
 <p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">Programming Languages</p>
+
+<h6 align="left">Programming Languages</h6>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -59,7 +60,8 @@
   />
 </a>
 
-<p align="left">Frontend Development</p>
+<br>
+<h6 align="left">Frontend Development</h6>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
@@ -157,7 +159,8 @@
   />
 </a>
 
-<p align="left">Backend Development</p>
+<br>
+<h6 align="left">Backend Development</h6>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -191,7 +194,8 @@
   />
 </a>
 
-<p align="left">Mobile App Development</p>
+<br>
+<h6 align="left">Mobile App Development</h6>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -233,7 +237,8 @@
   />
 </a>
 
-<p align="left">Database</p>
+<br>
+<h6 align="left">Database</h6>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
@@ -275,7 +280,8 @@
   />
 </a>
 
-<p align="left">Data Visualization</p>
+<br>
+<h6 align="left">Data Visualization</h6>
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
   <img
     src="https://www.chartjs.org/media/logo-title.svg"
@@ -301,7 +307,8 @@
   />
 </a>
 
-<p align="left">Devops</p>
+<br>
+<h6 align="left">Devops</h6>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -327,7 +334,8 @@
   />
 </a>
 
-<p align="left">Backend as a Service(BaaS)</p>
+<br>
+<h6 align="left">Backend as a Service(BaaS)</h6>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -345,7 +353,8 @@
   />
 </a>
 
-<p align="left">Framework</p>
+<br>
+<h6 align="left">Framework</h6>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
   <img
     src="https://cdn.worldvectorlogo.com/logos/django.svg"
@@ -387,7 +396,8 @@
   />
 </a>
 
-<p align="left">Testing</p>
+<br>
+<h6 align="left">Testing</h6>
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
@@ -397,7 +407,8 @@
   />
 </a>
 
-<p align="left">Software</p>
+<br>
+<h6 align="left">Software</h6>
 <a
   href="https://www.adobe.com/in/products/illustrator.html"
   target="_blank"
@@ -463,7 +474,8 @@
   />
 </a>
 
-<p align="left">Static Site Generators</p>
+<br>
+<h6 align="left">Static Site Generators</h6>
 <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"
@@ -489,7 +501,8 @@
   />
 </a>
 
-<p align="left">Game Engines</p>
+<br>
+<h6 align="left">Game Engines</h6>
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
